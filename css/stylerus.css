@@ -1,0 +1,127 @@
+.menu__item {
+    margin-right: 37px;
+}
+.download {
+    width: 474px;
+}
+.third p {
+	margin-top: 16px;
+}
+.footer__download {
+	width: 378px;
+}
+.footer__menu .menu__item {
+    margin-right: 27px;
+}
+.footer__reserved {
+    margin-right: 34px;
+}
+.statistics {
+    background: #F2AA3E url(../img/rus/bgd_2.png) no-repeat center center/cover;
+}
+	.conditions__paragraph {
+    height: 300px;
+	}
+	.conditions__prg {
+    height: 400px;
+	}
+	.conditions__prg_dop {
+    height: 258px;
+	}
+	.kk {
+		width: 334px;
+	}
+
+
+	.feedback {
+    padding: 12px 36px 11px 36px;
+	margin-left: 43px;
+	}
+	.feedback__image {
+    margin-right: 13px;
+	}
+@media screen and (max-width: 1200px) {
+	.menu {
+    margin-left: 50px;
+	}
+	.line_dop {
+    margin-left: 32px;
+	}
+	.footer__menu {
+    margin-left: 0px !important;
+	}
+	.kk {
+		width: 334px;
+	}
+	.feedback {
+    padding: 12px 24px 11px 30px;
+	}
+}
+@media screen and (max-width: 992px) {
+	.download {
+    width: 291px;
+	}
+	.footer__download {
+    width: 376px;
+    margin-left: -79px;
+	}
+	.footer__reserved {
+    margin-left: -80px !important;
+	}
+	.menu {
+    margin-left: 33px;
+	}
+	.feedback {
+    margin-left: 0px;
+	}
+	.feedback {
+    padding: 12px 5px 11px 5px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.mobile__menu_feedback {
+    padding: 14px 76px;
+	}
+	.footer__reserved {
+    margin-left: 0px !important;
+	}
+	.footer__logo img {
+		margin-left: 0;
+	}
+	.conditions__paragraph {
+    height: 400px;
+	}
+	.conditions__prg {
+    height: 515px;
+	}
+	.conditions__prg_dop {
+    height: 343px;
+	}
+	.statistics {
+    background: #F2AA3E url(../img/bg_save.png) no-repeat center center/cover;
+	}
+}
+
+@media screen and (max-width: 540px) {
+	.conditions__paragraph {
+    height: 640px;
+	}
+	.conditions__prg {
+    height: 925px;
+	}
+	.conditions__prg_dop {
+    height: 640px;
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.help__blk_paragraph {
+    margin-top: 57px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.footer__menu .menu__item {
+    margin-right: 17px;
+	}
+}
